@@ -1,5 +1,3 @@
-
-</head>
 <body>
   <div class="wrap">
     <header>
@@ -28,10 +26,8 @@
           </ul>
         </div>
     <div class="footer">
-      <button class="btn" onclick="showTip('ef')">Dacă lucrăm organizat și fără distrageri, economisim mai mult din timpul acordat de obicei studiului pentru activitățile care ne plac și pentru relaxare.</button>
-      <span id="copystatus-ef"></span>
+      <p class="small">Dacă lucrăm organizat și fără distrageri, economisim mai mult din timpul acordat de obicei studiului pentru activitățile care ne plac și pentru relaxare.</p>
     </div>
-  </section>
 
   <!-- Securitate -->
   <section class="card" aria-labelledby="sec">
@@ -55,8 +51,7 @@
       <p class="hint">Parolele pe care le alegi trebuie să fie cât mai unice, dar ușor de memorat (nu „1234”).</p>
     </div>
     <div class="footer">
-      <button class="btn" onclick="showTip('se')">Despre securitatea în spațiul virtual: https://www.youtube.com/watch?v=8TxlB1NREsU</button>
-      <span id="copystatus-se"></span>
+      <p class="small">Despre securitatea în spațiul virtual: (https://www.youtube.com/watch?v=8TxlB1NREsU)</p>
     </div>
   </section>
 
@@ -82,7 +77,4 @@
       <p class="hint">Când ești supărat, încearcă să numeri până la 10 înainte să răspunzi unei persoane.</p>
     </div>
     <div class="footer">
-      <span id="copystatus-co"></span>
     </div>
-  </section>
-</main>
