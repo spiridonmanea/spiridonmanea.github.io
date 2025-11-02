@@ -51,7 +51,7 @@
       <p class="hint">Parolele pe care le alegi trebuie să fie cât mai unice, dar ușor de memorat (nu „1234”).</p>
     </div>
     <div class="footer">
-      <p class="small">Despre securitatea în spațiul virtual: (https://www.youtube.com/watch?v=8TxlB1NREsU)</p>
+      <p class="small">Despre securitatea în spațiul virtual: [https://www.youtube.com/watch?v=8TxlB1NREsU]</p>
     </div>
   </section>
 
